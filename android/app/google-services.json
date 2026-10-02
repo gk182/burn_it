@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "53003539300",
+    "project_id": "burn-it-daed3",
+    "storage_bucket": "burn-it-daed3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53003539300:android:140b9509993bf1636ae071",
+        "android_client_info": {
+          "package_name": "com.example.burn_it"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdcjSCxemNoR48YI7N9h0eU4X5Dq-5DhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
